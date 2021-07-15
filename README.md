@@ -1,12 +1,12 @@
-# Quick_Chat
+## Quick_Chat
 
-Website Link - [Quick Chat](https://aravinthquickchat.netlify.app/)
+## Website Link - [Quick Chat](https://aravinthquickchat.netlify.app/)
 
 "Quick-Chat" that allows you messaging with your friends and family. Quick-Chat which is compatible with Desktop/Laptop that uses Internet connection for your communication.
 
-Framewok - Reactjs
+## Framewok - Reactjs
 
-UI & API - [Chat Engine](https://chatengine.io/)
+## UI & API - [Chat Engine](https://chatengine.io/)
 
 <h1>Result</h1> 
 
