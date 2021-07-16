@@ -1,4 +1,4 @@
-<h1>Quick_Chat</h1>
+Quick_Chat
 
 ## Website Link - [Quick Chat](https://aravinthquickchat.netlify.app/)
 
